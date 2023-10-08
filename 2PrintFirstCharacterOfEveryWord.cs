@@ -3,7 +3,8 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
-
+//Source Program:https://www.youtube.com/watch?v=ZBISw8z3tts&list=PLt4nG7RVVk1gp0v3wg7gWB26lRzseuHQz&index=2
+// 2: Print first character of every word
 namespace ConsoleApp2
 {
     internal class Program
@@ -29,8 +30,7 @@ namespace ConsoleApp2
 
     }
 }
-
-
+ 
 //We can get output by using any one of the for loops.
 //But if we use "String str" directly, it creates many "substrings of individual characters in memory".(Memory wise poor performance)
 //in terms of memory if we use str, it creates a new string for each character to be printed.
