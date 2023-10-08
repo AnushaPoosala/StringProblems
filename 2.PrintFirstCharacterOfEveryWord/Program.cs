@@ -12,7 +12,7 @@ namespace ConsoleApp2
         static void Main(string[] args)
         {
             String str = "Hello Anusha.!! Please be determined to Finish DSA. It is easy to complete with in 3 months,  If you focus and be consustent. ";
-            char[] chr= str.ToCharArray();
+            char[] chr = str.ToCharArray();
 
             for (int i = 0; i < chr.Length; i++)
             {
@@ -30,7 +30,7 @@ namespace ConsoleApp2
 
     }
 }
- 
+
 //We can get output by using any one of the for loops.
 //But if we use "String str" directly, it creates many "substrings of individual characters in memory".(Memory wise poor performance)
 //in terms of memory if we use str, it creates a new string for each character to be printed.
