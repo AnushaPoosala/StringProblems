@@ -32,7 +32,7 @@ namespace _3TrimTheString
             }
             int count = end - start + 1;
             string result=new string(chr,start,count);
-            Console.WriteLine("Trimmed string is:"+ result);
+            Console.WriteLine("Trimmed string is:"+result);
         }
     }
 }
