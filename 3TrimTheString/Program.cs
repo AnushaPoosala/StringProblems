@@ -3,7 +3,8 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
-
+//source program:https://www.youtube.com/watch?v=487sAh3X7ek&list=PLt4nG7RVVk1gp0v3wg7gWB26lRzseuHQz&index=3
+//String Problems-3: Trim the String
 namespace _3TrimTheString
 {
     internal class Program
