@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33530.505
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "11CompareTwoStringsWithBackspaceCharacters", "11CompareTwoStringsWithBackspaceCharacters.csproj", "{B556FE4E-B918-4358-871C-61D74C7B04B2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B556FE4E-B918-4358-871C-61D74C7B04B2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B556FE4E-B918-4358-871C-61D74C7B04B2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B556FE4E-B918-4358-871C-61D74C7B04B2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B556FE4E-B918-4358-871C-61D74C7B04B2}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {641432C4-3051-4EEE-B3F6-DA33A1778491}
+	EndGlobalSection
+EndGlobal
