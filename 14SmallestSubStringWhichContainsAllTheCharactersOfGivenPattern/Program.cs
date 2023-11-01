@@ -10,7 +10,7 @@ namespace _14SmallestSubStringWhichContainsAllTheCharactersOfGivenPattern
 {
     internal class Program
     {
-        public void FindAllAnagramsInStringForAGivenPattern(string pattern, string str)
+        public void SmallestSubStringWhichContainsAllTheCharactersOfGivenPattern(string pattern, string str)
         {
             Dictionary<char, int> dic = new Dictionary<char, int>();
 
@@ -60,7 +60,7 @@ namespace _14SmallestSubStringWhichContainsAllTheCharactersOfGivenPattern
         static void Main(string[] args)
         {
             Program program = new Program();
-            program.FindAllAnagramsInStringForAGivenPattern("abcd", "bcdefcbabcbd");
+            program.SmallestSubStringWhichContainsAllTheCharactersOfGivenPattern("abcd", "bcdefcbabcbd");
         }
     }
 }
