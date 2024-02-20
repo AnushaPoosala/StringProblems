@@ -1,0 +1,17 @@
+there is a string of length N made only of letters "a". whenever there are 2 identical adjacent letters(eg:"aa") they can be transformed into single letter that is  the next letter of the alphabet. for example "aa" can be transformed into "b" and "ee" can be transformed into "f". Hower "zz" can not be transornmed.
+
+What is alphabetically largest string that can be obtained from initial string?
+
+write function
+
+ckass Solution{ public string solution(int N);}
+
+that given N returns the alphabetically largest string that can be obtained after such transformations
+
+Examples:
+
+1. Given N=11, the function should return "dba". The initial string "aaaaaaaaaaa" can be transormed inthe forllowing manner.
+   "aaaaaaaaaaa"->bbbbba"->"ccba"->"dba"
+2. Given N=1; the function should return "a".the initial string "a" can not be transformed in any way.
+3. Given N=67108876 the function should return  "zzdc"
+ 
